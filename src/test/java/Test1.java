@@ -5,8 +5,7 @@ public class Test1 {
         System.out.println("Hello Maks");
         System.out.println("Hello Maks");
         System.out.println("Hello Maks");
-        System.out.println("Hello Maks");
-        System.out.println("Hello Maks");
-        System.out.println("Hello Maks");
+       
+
     }
 }
